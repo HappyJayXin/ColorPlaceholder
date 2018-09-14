@@ -1,0 +1,15 @@
+input{
+    width: 200px;
+}
+.section{
+    width: 100%;
+    height: 5em;
+}
+.section label{
+    display: inline-block;
+    margin: 1em;
+}
+.container{
+    width: 100%;
+    margin: auto;
+}
