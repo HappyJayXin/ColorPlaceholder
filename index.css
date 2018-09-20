@@ -1,8 +1,17 @@
 body{
     background: #f7d794;
+}    
+h1{
+    margin-bottom: 2em;
+    color: #ecf0f1;
 }
 input{
     width: 200px;
+    margin: .5em 0 0;
+    display: inline-block;
+}
+.section{
+    margin: 1em 0;    
 }
 .container{
     position: absolute;
