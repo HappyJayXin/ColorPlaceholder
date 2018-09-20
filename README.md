@@ -20,13 +20,15 @@
 ### jquery
 ```js
 $('#name').ColorPlaceholder();
+```
 
-
+```
 $('#name').ColorPlaceholder({
    text:'快點告訴我你的名子'
 });
+```
 
-
+```
 $('#name').ColorPlaceholder({
    color:'#45aaf2',
    text:'快點告訴我你的名子'
