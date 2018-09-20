@@ -22,13 +22,13 @@
 $('#name').ColorPlaceholder();
 ```
 
-```
+```js
 $('#name').ColorPlaceholder({
    text:'快點告訴我你的名子'
 });
 ```
 
-```
+```js
 $('#name').ColorPlaceholder({
    color:'#45aaf2',
    text:'快點告訴我你的名子'
