@@ -7,6 +7,9 @@
 ### html
 ```html
 <input type="text" id="name">
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+<script src="jquery.placeholder.min.js"></script>
 ```
 ### css
 ```css
@@ -14,7 +17,7 @@
     width: 200px;
 }
 ```
-### jquery ( 網頁請先載入[jquery](https://jquery.com/) )
+### jquery
 ```js
 $('#name').ColorPlaceholder();
 
